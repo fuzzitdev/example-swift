@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/fuzzitdev/example-swift.svg?branch=master)](https://travis-ci.org/fuzzitdev/example-swift)
-[![fuzzit](https://app.fuzzit.dev/badge?org_id=fuzzitdev&branch=master)](https://fuzzit.dev)
+fuzzit.dev was [acquired](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html) by GitLab and the new home for this repo is [here](https://gitlab.com/gitlab-org/security-products/demos/swift-fuzzing-example)
 
 # Continuous Fuzzing for Swift Example
 
